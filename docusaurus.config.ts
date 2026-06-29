@@ -79,7 +79,8 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        {to: '/', label: 'Blog Home', position: 'left'},
+        {to: '/', label: 'Home', position: 'left'},
+        {to: '/about', label: 'About', position: 'left'},
       ],
     },
     footer: {
