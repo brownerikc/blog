@@ -50,7 +50,7 @@ const config: Config = {
         blog: {
           routeBasePath: '/',
           showReadingTime: true,
-          exclude: ['_archive/**'],
+          exclude: ['_archive/**', 'drafts/**'],
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,

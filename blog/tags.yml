@@ -7,3 +7,13 @@ ai:
   label: AI
   permalink: /ai
   description: Posts about artificial intelligence
+
+career:
+  label: Career
+  permalink: /career
+  description: General career thoughts and philosophy
+
+personal-values:
+  label: Personal Values
+  permalink: /personal-values
+  description: Posts about my personal values
