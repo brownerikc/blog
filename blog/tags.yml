@@ -17,3 +17,8 @@ personal-values:
   label: Personal Values
   permalink: /personal-values
   description: Posts about my personal values
+
+books:
+  label: Books
+  permalink: /books
+  description: Posts about fiction books
